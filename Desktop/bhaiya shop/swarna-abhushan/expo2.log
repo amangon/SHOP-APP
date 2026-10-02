@@ -1,0 +1,9 @@
+env: load .env
+env: export EXPO_PUBLIC_SUPABASE_ANON_KEY EXPO_PUBLIC_SUPABASE_URL
+Starting project at /Users/amanlala/Desktop/bhaiya shop/swarna-abhushan
+› Port 8081 is running this app in another window
+  /Users/amanlala/Desktop/bhaiya shop/swarna-abhushan (pid 89628)
+Input is required, but 'npx expo' is in non-interactive mode.
+Required input:
+> Use port 8082 instead?
+› Skipping dev server

@@ -1,0 +1,49 @@
+{
+  "id": "a395985c-6327-4963-a3d3-51293abcabfe",
+  "status": "ERRORED",
+  "platform": "ANDROID",
+  "error": {
+    "errorCode": "UNKNOWN_ERROR",
+    "message": "Unknown error. See logs of the Install dependencies build phase for more information."
+  },
+  "artifacts": {},
+  "fingerprint": {
+    "id": "01a0954f-9ce4-74ec-8bcc-ef79cee85d31",
+    "hash": "bb51f9cc415ee7378efc139dfd9433f06c00eea1"
+  },
+  "initiatingActor": {
+    "id": "2d01c316-6138-467a-b925-0df8aca42cd8",
+    "displayName": "amangon1176"
+  },
+  "logFiles": [
+    "https://storage.googleapis.com/eas-workflows-production/logs/96fbb487-c2c7-4612-839f-a349079eec03/a395985c-6327-4963-a3d3-51293abcabfe/2026-09-12T11%3A12%3A11Z-fe73540a-d89a-4d00-8ef6-634f929ef8f3.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260912T111415Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=1722c7ad0a4047e8178fa72f2b16036e09a1df81fb2e16860b6ef072182ba427c1d68f9a384ab187709af9fc869e1921a5b3bb09145614537e782f6e3510540dc00a64b244ceb97e68452b809332d0dff8e47d1bd37a6961aa78fae0cbdd837ef121b7553132ba73b07eb866ba5da517d26a79ea42fe170d5e593acac5ceedb3c34969615feaaec07ac4c10d69b3890d0a868e31caeae1b2924a407484606edbdf9f4db65d5645afdad801e54cf0fdc3ea0515a617fa1e0db4f2f7e21ab6de59c752afe7685ce6a9be1365d170ba917d17a01d61e7a577f5eb9a32316897363c3a27502c8e756d8ae328641a0a1dcd1feaedc486fd89acd987753ec62b76d50f"
+  ],
+  "app": {
+    "id": "96fbb487-c2c7-4612-839f-a349079eec03",
+    "name": "swarna-abhushan",
+    "slug": "swarna-abhushan",
+    "ownerAccount": {
+      "id": "7768d9c1-3be4-475f-a388-7d97edc34c61",
+      "name": "amangon1176"
+    }
+  },
+  "distribution": "INTERNAL",
+  "buildProfile": "preview",
+  "appIdentifier": "com.swarnaabhushan.app",
+  "sdkVersion": "57.0.0",
+  "appVersion": "1.0.0",
+  "appBuildVersion": "1",
+  "gitCommitHash": "12d3bff636273eb08f9e95e6e2af4ace2ff3605f",
+  "gitCommitMessage": "Update emergency response button styling",
+  "priority": "NORMAL",
+  "createdAt": "2026-09-12T11:12:08.615Z",
+  "updatedAt": "2026-09-12T11:12:24.666Z",
+  "completedAt": "2026-09-12T11:12:24.472Z",
+  "expirationDate": "2026-09-26T11:12:08.645Z",
+  "isForIosSimulator": false,
+  "metrics": {
+    "buildWaitTime": 2531,
+    "buildQueueTime": 4709,
+    "buildDuration": 8617
+  }
+}
